@@ -1,0 +1,2 @@
+# python_notes_with_ten_days
+计划花十天回顾一些python相关知识点，这是所做的个人笔记，仅限个人学习所用
