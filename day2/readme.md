@@ -3,4 +3,4 @@
 
 2、digit_type.ipynb 介绍了数字类型的操作
 
-2、string_type.ipynb 介绍了字符串的操作
+3、string_type.ipynb 介绍了字符串的操作
